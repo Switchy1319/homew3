@@ -10,6 +10,10 @@ html{
 .witeli{
     color: red;
 }
-a{
-    width: 500px;
+#submit{
+    display: block;
+    background-color: blue;
+    color: white;
+    width: 75px;
+    height: 30px;
 }
