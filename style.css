@@ -1,0 +1,15 @@
+html{
+    background-color: aqua;
+    scroll-behavior: smooth;
+}
+#charcho{
+    height: 25px;
+    width: 200px;
+    display:block;
+}
+.witeli{
+    color: red;
+}
+a{
+    width: 500px;
+}
